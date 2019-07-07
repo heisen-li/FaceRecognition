@@ -60,7 +60,7 @@ if __name__ == '__main__':
                 else:
                     pass
                             
-        cv2.imshow("识别朕", frame)
+        cv2.imshow("识别", frame)
         
         #等待10毫秒看是否有按键输入
         k = cv2.waitKey(10)
