@@ -1,2 +1,2 @@
 # FaceRecognition
-来自我自己的CSDN博客
+效果不怎么好的人脸识别
